@@ -1,7 +1,6 @@
 <img src="img/ezgif.com-gif-maker.png" width="100%">
-<h1>Apock gráficos</h1>
-<h4><strong>Diseñador y desarrollador front-end</strong></h4>
-<h3>Redes sociales. 😁 quien dijo miedo. ¡Sígueme!</h3>
+<h1>¡Hola y bienvenidos a Apock gráficos!</h1>
+<h3>Redes sociales y contacto</h3>
 <table>
     <tr>
         <td><a target="_blank" href="https://www.facebook.com/ApockGraficos"><img src="icons/facebook2.svg" alt="" width="40"></a></td>
@@ -16,12 +15,13 @@
         <td>Youtube</td>
     </tr>
 </table>
+<h3>Información</h3>
 <ul>
-    <li>Mi nombre completo es <strong>Yenerson Hernandez Lopez</strong> soy de 🇨🇴 COLOMBIA. me apasiona el diseño y el desarrollo de aplicaciones, web, móvil, escritorio con html, css y javascript</li>
-    <li>Creador de contenido. visita mi canal de youtube donde encontraras tutoriales y recursos para tus proyectos o aprendizaje</li>
+    <li>Mi nombre completo es <strong>Yenerson Jesus Hernandez Lopez</strong></li>
+    <li>Nacionalidad 🇨🇴 Colombia</li>
+    <li>Desarrollador, diseñador UI/UX - front-end y creador de contendio.</li>
 </ul>
 <h1>Skills</h1>
-<p>Diseñador de paginas web, programación de pagina front-end, con total conocimiento de las siguientes tecnologías</p>
 <table>
     <tr>
         <td>html</td>
@@ -32,7 +32,6 @@
         <td>Node</td>
         <td>Vue</td>
         <td>Angular</td>
-        <td>php</td>
     </tr>
     <tr>
         <td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></td>
@@ -43,6 +42,12 @@
         <td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></td>
         <td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></td>
         <td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></td>
-        <td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></td>
     </tr>
 </table>
+<h1>hobbies</h1>
+<ul>
+    <li>love breack-dance</li>
+    <li>Futbol | basketball</li>
+    <li>Creativo digital</li>
+    <li>Gamer lol | warzone</li>
+</ul>
