@@ -1,5 +1,5 @@
 <img src="img/ezgif.com-gif-maker.png" width="100%">
-<h1>¡Hola y bienvenidos/as a Apock gráficos!</h1>
+<h1>¡Hola y bienvenidos a Apock gráficos!</h1>
 <h3>Redes sociales y contacto</h3>
 <table>
     <tr>
